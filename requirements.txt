@@ -5,5 +5,4 @@ statsmodels
 matplotlib
 seaborn
 jupyter
-nbstripout
 openpyxl

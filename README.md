@@ -53,10 +53,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
-nbstripout --install
 ```
-
-`nbstripout --install` limpia las salidas de los notebooks al hacer commit para evitar conflictos y diffs ruidosos.
 
 ## Reglas
 
