@@ -14,3 +14,4 @@
 | D8 | 19-oct | Adrián: documentación de calidad. JH: validación. Andrés: presentación. | — | Cerrada |
 | D9 | 19-oct | El Google Doc es la única fuente de verdad para planificación y decisiones; el repo lleva código, datos y bitácora. | — | Cerrada |
 | D10 | 22-oct | Los notebooks se suben con sus salidas y los escribe y ejecuta Claude Code. | nbstripout: ocultaba la evidencia en GitHub. VS Code local: consume demasiados recursos. | Cerrada |
+| D13 | 22-oct | Una campaña es atribuible a una compra si el mismo cliente compra entre 0 y 30 días después del envío. | Argumento: estándar de la industria (ventana por defecto de Google Ads). Respaldo: sensibilidad con 7, 14, 30, 60 y 90 días; con cualquier ventana, convertidos y no convertidos compran casi igual. | Cerrada |
