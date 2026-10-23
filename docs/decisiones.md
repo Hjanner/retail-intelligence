@@ -14,4 +14,6 @@
 | D8 | 19-oct | Adrián: documentación de calidad. JH: validación. Andrés: presentación. | — | Cerrada |
 | D9 | 19-oct | El Google Doc es la única fuente de verdad para planificación y decisiones; el repo lleva código, datos y bitácora. | — | Cerrada |
 | D10 | 22-oct | Los notebooks se suben con sus salidas y los escribe y ejecuta Claude Code. | nbstripout: ocultaba la evidencia en GitHub. VS Code local: consume demasiados recursos. | Cerrada |
+| D11 | 22-oct | El dashboard de Power BI lo construye Ana, no HannerDev, para liberar el cuello de botella de datos; ella es la única que modifica el .pbix. | Requisito: que Ana maneje Power BI (por confirmar). Se descartó asignarlo a JH. | Cerrada |
+| D12 | 22-oct | HannerDev apoya a Ana entregando desde sus notebooks tablas listas para graficar en data/clean/, borradores de títulos-insight y las cifras de las recomendaciones. No toca el dashboard ni la narrativa. | Si Ana necesita más manos, se apoya en Andrés. | Cerrada |
 | D13 | 22-oct | Una campaña es atribuible a una compra si el mismo cliente compra entre 0 y 30 días después del envío. | Argumento: estándar de la industria (ventana por defecto de Google Ads). Respaldo: sensibilidad con 7, 14, 30, 60 y 90 días; con cualquier ventana, convertidos y no convertidos compran casi igual. | Cerrada |
