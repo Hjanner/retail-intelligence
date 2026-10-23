@@ -59,6 +59,6 @@ pip install -r requirements.txt
 
 1. **Un dueño por notebook.** Solo su dueño lo edita; los demás comentan o proponen cambios.
 2. **`data/raw/` nunca se edita.** Toda limpieza se hace en notebooks y se guarda en `data/clean/`.
-3. **El `.pbix` solo lo toca HannerDev.**
+3. **El `.pbix` solo lo toca Ana (D11).**
 4. Todo uso de IA se registra en `docs/bitacora_ia.md`.
 5. Toda decisión relevante se registra en `docs/decisiones.md`.
