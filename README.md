@@ -17,7 +17,7 @@ retail-intelligence/
 ├── powerbi/        # Archivo .pbix del tablero
 ├── docs/
 │   ├── bitacora_ia.md   # Registro del uso de IA
-│   └── decisiones.md    # Decisiones del proyecto (D1–D8)
+│   └── decisiones.md    # Registro de decisiones
 ├── requirements.txt
 └── README.md
 ```
@@ -38,7 +38,7 @@ retail-intelligence/
 | Integrante | Rol |
 |---|---|
 | HannerDev | Datos y análisis |
-| Ana | Historia y defensa |
+| Ana | Historia, defensa y dashboard de Power BI (D11) |
 | Adrián | Documentación de calidad |
 | JH | Validador |
 | Andrés | Presentación |
